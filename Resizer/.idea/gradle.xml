@@ -7,11 +7,10 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
+            <option value="$PROJECT_DIR$/.." />
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/Resizer" />
-            <option value="$PROJECT_DIR$/Resizer-debug" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/lib-release" />
+            <option value="$PROJECT_DIR$/../lib-release" />
+            <option value="$PROJECT_DIR$/../sample" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

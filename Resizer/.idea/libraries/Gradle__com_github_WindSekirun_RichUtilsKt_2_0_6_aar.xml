@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.WindSekirun:RichUtilsKt:2.0.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/RichUtilsKt-2.0.6.aar/85e92828534e75dc4641f788aeb183c9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/RichUtilsKt-2.0.6.aar/85e92828534e75dc4641f788aeb183c9/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.WindSekirun/RichUtilsKt/2.0.6/c8f8f73251267bb593bd2cad55a20c4e0733ccdc/RichUtilsKt-2.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

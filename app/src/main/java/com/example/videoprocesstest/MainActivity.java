@@ -38,6 +38,7 @@ import pyxis.uzuki.live.mediaresizer.model.MediaType;
 import pyxis.uzuki.live.mediaresizer.model.ScanRequest;
 import pyxis.uzuki.live.mediaresizer.model.VideoResolutionType;
 
+
 public class MainActivity extends AppCompatActivity {
 
     private Button btn;
